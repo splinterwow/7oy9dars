@@ -1,0 +1,14 @@
+/* CurrentCountry.css */
+.custom-dropdown .ant-select-dropdown {
+    max-height: 200px; /* Yaxshi ko'rinish uchun pastki ro'yxatning maksimal balandligini belgilash */
+    overflow-y: auto; /* Pastki ro'yxatda skroll bo'lishi uchun */
+  }
+  
+  .custom-dropdown .ant-select-item-option {
+    padding: 10px; /* Har bir element uchun ichki bo'shliq */
+  }
+  
+  .custom-dropdown .ant-select-item-option-selected {
+    background-color: #e0e7ff; /* Tanlangan elementning fon rangi */
+  }
+  
